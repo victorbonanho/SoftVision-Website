@@ -1,0 +1,22 @@
+/*Cores principais do site*/
+$primaryColor: #3D3A3E;
+$blueColor: #3B5381;
+$yellowColor: #F0D33D;
+$grayColor: #F2F3F3;
+$whiteColor: white;
+
+header {
+  background-color: $grayColor;
+}
+
+nav {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  align-items: center;
+}
+
+p {
+  color: $primaryColor;
+  margin: 0;
+}
